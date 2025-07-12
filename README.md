@@ -43,3 +43,6 @@ Utilizes the jsPDF library for converting invoice data into a downloadable PDF f
 Real-Time Calculations:
 Automatically computes totals and taxes based on user inputs.
 This tool is perfect for individuals and small businesses looking for a hassle-free way to manage invoicing with minimal effort.
+
+-------------------------------------------------------------------------------------------------
+📦 This project was originally developed under my college GitHub account [Pradeep-2007](https://github.com/Pradeep-2007) and is now maintained here under my personal account for portfolio purposes.
